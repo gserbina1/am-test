@@ -1,0 +1,10 @@
+{
+    "id": "6e823397-d4d8-4fa4-954f-5ff06eafa152",
+    "name": "for_import_application_from_GIT",
+    "runnableScripts": [
+        {
+            "path": "index.ts",
+            "id": "bcaa6c04-743a-49b3-b227-1eb3670b473a"
+        }
+    ]
+}
